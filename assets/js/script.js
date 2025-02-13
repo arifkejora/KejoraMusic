@@ -234,6 +234,15 @@ const musicData = [
     artist: "Lesti Kejora, King Nassar, Ungu",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2Fspotifydown.com%20-%20Udang%20Di%20Balik%20Batu.mp3?alt=media&token=97d1a4b3-c8b5-436e-8751-c4a61f1791d3",
   },
+  {
+    backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FSatu%20Satunya%20Permaisurimu.jpg?alt=media&token=36d9c06d-8b53-401d-9416-2e02d9c3a574",
+    posterUrl: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FSatu%20Satunya%20Permaisurimu.jpg?alt=media&token=36d9c06d-8b53-401d-9416-2e02d9c3a574",
+    title: "Satu Satunya Permaisurimu",
+    album: "Satu Satunya Permaisurimu",
+    year: 2024,
+    artist: "Lesti Kejora",
+    musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FSatu%20Satunya%20Permaisurimu.mp3?alt=media&token=c87275a3-78fb-4a2f-9b66-ec0c2a124e45",
+  },
 ];
 
 const addEventOnElements = function (elements, eventType, callback) {
