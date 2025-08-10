@@ -243,6 +243,24 @@ const musicData = [
     artist: "Lesti Kejora",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FSatu%20Satunya%20Permaisurimu.mp3?alt=media&token=c87275a3-78fb-4a2f-9b66-ec0c2a124e45",
   },
+  {
+    backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FDilema.jpg?alt=media&token=7d2c2aba-a98a-43a5-9648-9882ceea5cb8",
+    posterUrl: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FDilema.jpg?alt=media&token=7d2c2aba-a98a-43a5-9648-9882ceea5cb8",
+    title: "Dilema",
+    album: "Dilema",
+    year: 2025,
+    artist: "Lesti Kejora",
+    musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FSpotiDown.App%20-%20Dilema%20-%20Lesti.mp3?alt=media&token=c6f27d26-cd5c-4981-9d11-abff5a319eec",
+  },
+  {
+    backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FAda%20yang%20punya.jpeg?alt=media&token=6fd922c0-25eb-4199-bdf7-88d43da44541",
+    posterUrl: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FAda%20yang%20punya.jpeg?alt=media&token=6fd922c0-25eb-4199-bdf7-88d43da44541",
+    title: "Ada Yang Punya",
+    album: "Ada Yang Punya",
+    year: 2025,
+    artist: "Lesti Kejora",
+    musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FSpotiDown.App%20-%20Ada%20Yang%20Punya%20-%20Lesti.mp3?alt=media&token=25d71e5e-7d20-4c35-b9f6-6fc5d43dee5a",
+  },
 ];
 
 const addEventOnElements = function (elements, eventType, callback) {
