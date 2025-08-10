@@ -32,7 +32,7 @@ const musicData = [
     year: 2016,
     artist: "Lesti Kejora",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FEgois.mp3?alt=media&token=7c987b5e-a2bd-44bd-b8d8-1564160e3c44",
-    lyrics: "./assets/lyrics/Egois.lrc"
+    lyrics: "./assets/lyrics/1. Egois.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FBuka%20Mata%20Hati.jpg?alt=media&token=486b240c-bb96-4a56-b513-9ba761fdd453",
@@ -41,8 +41,8 @@ const musicData = [
     album: "Buka Mata Hati",
     year: 2017,
     artist: "Lesti Kejora",
-    musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FBuka%20Mata%20Hati.mp3?alt=media&token=68ca8046-4dc2-4b01-b758-4d117ef78337",
-    lyrics: "./assets/lyrics/BukaMataHati.lrc"
+    musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FSpotiDown.App%20-%20Buka%20Mata%20Hati%20-%20Lesti.mp3?alt=media&token=c6ac7675-86a9-4b22-a585-01190adcaee2",
+    lyrics: "./assets/lyrics/Buka Mata Hati.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FMati%20Gaya.jpg?alt=media&token=9e585a6a-ae05-48ac-a125-61ae26518730",
@@ -52,7 +52,7 @@ const musicData = [
     year: 2017,
     artist: "Lesti Kejora",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FMati%20Gaya.mp3?alt=media&token=db6f5962-e21c-4ad8-9ca0-ccf745d654f9",
-    lyrics: "./assets/lyrics/MatiGaya.lrc"
+    lyrics: "./assets/lyrics/Mati Gaya.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FPurnama.jpg?alt=media&token=f3be294f-dbbf-4a59-9de2-ffb9c6bbc052",
@@ -72,7 +72,7 @@ const musicData = [
     year: 2018,
     artist: "Lesti Kejora",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FLebih%20Dari%20Selamanya.mp3?alt=media&token=bae001f8-3794-403d-9cb5-b2e9f361e4ae",
-    lyrics: "./assets/lyrics/LebihDariSelamanya.lrc"
+    lyrics: "./assets/lyrics/Lebih Dari Selamanya.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FAda%20Cerita.jpg?alt=media&token=f2e34612-0491-4b46-914e-a35e608fae6c",
@@ -102,7 +102,7 @@ const musicData = [
     year: 2020,
     artist: "Lesti Kejora",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FKulepas%20Dengan%20Ikhlas.mp3?alt=media&token=88d39d32-98a7-45b1-b5ba-5deefb53c651",
-    lyrics: "./assets/lyrics/KDI.lrc"
+    lyrics: "./assets/lyrics/Kulepas Dengan ikhlas.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FSaat%20Terakhir.jpg?alt=media&token=546e3d3a-98b7-44d7-8631-acd5d9d058f7",
@@ -112,7 +112,7 @@ const musicData = [
     year: 2021,
     artist: "Lesti Kejora",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FSaat%20Terakhir.mp3?alt=media&token=f3a9509d-e4e8-4839-9a49-8795febcc231",
-    lyrics: "./assets/lyrics/SaatTerakhir.lrc"
+    lyrics: "./assets/lyrics/Saat Terakhir.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FBismillah%20Cinta.jpg?alt=media&token=f2ad4396-f8a9-4050-9027-ba982cffae3e",
@@ -122,7 +122,7 @@ const musicData = [
     year: 2021,
     artist: "Lesti Kejora, Ungu",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2FBismillah%20Cinta.mp3?alt=media&token=9a60031d-5d44-4011-9555-a3dfbd341db1",
-    lyrics: "./assets/lyrics/BismillahCinta.lrc"
+    lyrics: "./assets/lyrics/Bismillah Cinta.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2FBawa%20Aku%20Ke%20Penghulu.jpg?alt=media&token=b54c5a33-1719-45f9-b1a7-6fb9be97da44",
