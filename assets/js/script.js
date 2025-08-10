@@ -246,7 +246,7 @@ const musicData = [
     year: 2024,
     artist: "Lesti Kejora, Judika",
     musicPath: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/music%2Fspotifydown.com%20-%20Bukan%20Karena%20Tak%20Cinta.mp3?alt=media&token=c5e6da3d-a1fb-48d5-90b0-0022e1587984",
-    lyrics: "./assets/lyrics/1. Bukan Cinta Biasa.lrc"
+    lyrics: "./assets/lyrics/1. Bukan Karena Tak Cinta.lrc"
   },
   {
     backgroundImage: "https://firebasestorage.googleapis.com/v0/b/kejoramusic-a31db.appspot.com/o/Cover%2Fab67616d0000b273048e2860b572a210d407b59d.jpeg?alt=media&token=ecd1ed9c-617a-4973-915b-f11fcbbb0326",
